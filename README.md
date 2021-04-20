@@ -1,6 +1,6 @@
 ### Hey there! Welcome to my profile :nerd_face:
-<img src="https://github-stats.gonoc.vercel.app/api?username=JeanExtreme002&show_icons=true" />
-<img src="https://github-stats.gonoc.vercel.app/api/top-langs/?username=JeanExtreme002&layout=compact&custom_title=Languages%20Used%20on%20my%20GitHub" />
+<img src="https://github-stats.gonoc.vercel.app/api?username=JeanExtreme002&show_icons=true"/>
+<img src="https://github-stats.gonoc.vercel.app/api/top-langs/?username=JeanExtreme002&layout=compact&custom_title=Languages%20Used%20on%20my%20GitHub"/>
 
 <!--
 **JeanExtreme002/JeanExtreme002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
