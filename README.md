@@ -1,5 +1,4 @@
 ## Hey there! Welcome to my profile! :nerd_face:
-- :man_student: I am currently studying Computer Science at UFBA
 
 <div>
   <a href="https://github.com/JeanExtreme002">
@@ -7,6 +6,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanExtreme002&theme=react&layout=compact&langs_count=7"/>
   </a>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,7 +25,14 @@
   <img align="center" alt="Git" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## Social:
+## <img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> About Me:
+- :man_student: Currently studying Computer Science at UFBA
+- :snake: Python is my main and favorite programming language
+- :nerd_face: I started learning programming when I was 15 years old
+- :video_game: I'm a senior otaku, gamer and aviation enthusiast
+- :cry: I never had a girlfriend (attempts: 14 / success: 0). So I'm available if anyone is interested
+
+## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
 <div>
   <a href="https://pt.stackoverflow.com/users/157404/jeanextreme002?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-4CA143?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://pypi.org/user/JeanExtreme002/" target="_blank"><img src="https://img.shields.io/badge/Pypi-0073B7?style=for-the-badge&logo=pypi&logoColor=white" target="_blank"></a>
