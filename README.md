@@ -30,7 +30,7 @@
 - :snake: Python is my main and favorite programming language
 - :nerd_face: I started learning programming when I was 15 years old
 - :video_game: I'm a senior otaku, gamer and aviation enthusiast
-- :cry: I never had a girlfriend (attempts: 14 / success: 0). So I'm available if anyone is interested
+- :cry: I never had a girlfriend. So I'm available if anyone is interested
 
 ## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
 <div>
