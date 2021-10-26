@@ -1,13 +1,12 @@
 ## Hey there! Welcome to my profile! :nerd_face:
 
-<div>
-  <a href="https://github.com/JeanExtreme002">
-    <img height="179em" src="https://github-readme-stats.vercel.app/api?username=JeanExtreme002&theme=react&show_icons=true&count_private=true"/>
-    <img height="179em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanExtreme002&theme=react&layout=compact&langs_count=7"/>
-  </a>
-</div>
 
-<a href="https://github.com/JeanExtreme002"><img width="838em" src="https://activity-graph.herokuapp.com/graph?username=JeanExtreme002&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
+<a href="https://github.com/JeanExtreme002">
+  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=JeanExtreme002&theme=react&show_icons=true&count_private=true"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanExtreme002&theme=react&layout=compact&langs_count=7"/>
+</a>
+
+<a href="https://github.com/JeanExtreme002"><img width="830em" src="https://activity-graph.herokuapp.com/graph?username=JeanExtreme002&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
