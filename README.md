@@ -35,6 +35,7 @@
 
 ## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
 <div>
+  <a href="mailto:jeanextreme002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://pt.stackoverflow.com/users/157404/jeanextreme002?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-4CA143?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://pypi.org/user/JeanExtreme002/" target="_blank"><img src="https://img.shields.io/badge/Pypi-0073B7?style=for-the-badge&logo=pypi&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/y8YnpqSE8j" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
