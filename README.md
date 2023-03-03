@@ -38,7 +38,7 @@
   <a href="mailto:jeanextreme002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://pt.stackoverflow.com/users/157404/jeanextreme002?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-4CA143?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
   <a href="https://pypi.org/user/JeanExtreme002/" target="_blank"><img src="https://img.shields.io/badge/Pypi-0073B7?style=for-the-badge&logo=pypi&logoColor=white" target="_blank"></a>
-  <a href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jean-loui-bernard/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/y8YnpqSE8j" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/jeanextreme002/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://myanimelist.net/profile/JeanExtreme002" target="_blank"><img src="https://img.shields.io/badge/MyAnimeList-2F52A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank"></a>
