@@ -6,7 +6,7 @@
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanExtreme002&theme=react&layout=compact&langs_count=8"/>
 </a>
 
-<a href="https://github.com/JeanExtreme002"><img width="710em" src="https://github-readme-activity-graph.cyclic.app/graph?username=JeanExtreme002&bg_color=20232a&color=58a6ff&line=114a88&point=58a6ff&hide_border=true"/></a>
+<a href="https://github.com/JeanExtreme002"><img width="703em" src="https://github-readme-activity-graph.cyclic.app/graph?username=JeanExtreme002&bg_color=20232a&color=58a6ff&line=114a88&point=58a6ff&hide_border=true"/></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
