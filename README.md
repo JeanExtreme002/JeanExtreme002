@@ -27,7 +27,7 @@
 </div>
 
 ## <img width="30" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"> About Me:
-- :man_student: Currently studying Computer Science at UFBA
+- :man_student: Currently studying Computer Science at Federal University of Bahia
 - :snake: Python is my main and favorite programming language
 - :nerd_face: I started learning programming when I was 15 years old
 - :video_game: I'm a senior otaku, gamer and aviation enthusiast
