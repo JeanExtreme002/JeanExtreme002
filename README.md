@@ -2,8 +2,8 @@
 
 
 <a href="https://github.com/JeanExtreme002">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=JeanExtreme002&theme=react&show_icons=true&count_private=true"/>
-  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanExtreme002&theme=react&layout=compact&langs_count=8"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JeanExtreme002&theme=react&show_icons=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanExtreme002&theme=react&layout=compact&langs_count=8"/>
 </a>
 <!--
 <a href="https://github.com/JeanExtreme002"><img width="700em" src="https://github-readme-activity-graph.cyclic.app/graph?username=JeanExtreme002&bg_color=20232a&color=58a6ff&line=114a88&point=58a6ff&hide_border=true"/></a>
