@@ -33,7 +33,7 @@
 - :nerd_face: I started learning programming when I was 15 years old
 - :video_game: I'm a senior otaku, gamer and aviation enthusiast
 
-Visit my website: <a href="http://jeanloui.dev" target="_blank">jeanloui.dev</a> :heart:
+Visit my website: [jeanloui.dev](http://jeanloui.dev) :heart:
 
 ## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
 <div>
