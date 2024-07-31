@@ -33,6 +33,8 @@
 - :nerd_face: I started learning programming when I was 15 years old
 - :video_game: I'm a senior otaku, gamer and aviation enthusiast
 
+Visit my website: <a href="http://jeanloui.dev" target="_blank">jeanloui.dev</a> :heart:
+
 ## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
 <div>
   <a href="mailto:jeanextreme002@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
