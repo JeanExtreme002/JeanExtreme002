@@ -12,7 +12,7 @@
 - :man_student: B.Sc. Computer Science
 - :snake: Python is my favorite programming language
 - :nerd_face: I started learning programming when I was 15 years old
-- :video_game: Geek and aviation enthusiast
+- :video_game: Unlocked the legendary tier of Geekery
 
 Visit my website: [jeanloui.dev](http://jeanloui.dev) :heart:
 
