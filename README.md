@@ -15,13 +15,3 @@
 - :video_game: Unlocked the legendary tier of Geekery
 
 Visit my website: [jeanloui.dev](http://jeanloui.dev) :heart:
-
-## <img width="30" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif"> Social Networks:
-<div>
-  <a href="mailto:contact@jeanloui.dev" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jean-loui-bernard/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/jean-loui-bernard-silva-de-jesus/badges" target="_blank"><img src="https://img.shields.io/badge/Credly-005850?style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pt.stackoverflow.com/users/157404/jeanextreme002?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-4CA143?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pypi.org/user/JeanExtreme002/" target="_blank"><img src="https://img.shields.io/badge/Pypi-0073B7?style=for-the-badge&logo=pypi&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.npmjs.com/~jeanextreme002" target="_blank"><img src="https://img.shields.io/badge/Npm-D14836?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
-</div>
